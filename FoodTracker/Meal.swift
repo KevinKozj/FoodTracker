@@ -37,6 +37,4 @@ class Meal {
         self.rating = rating
     }
     
-    
-    
 }

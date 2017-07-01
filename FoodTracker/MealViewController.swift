@@ -76,14 +76,5 @@ class MealViewController: UIViewController, UITextFieldDelegate,
         present(imagePickerController, animated: true, completion: nil)
     }
     
-//    *** Does not need this function anymore ***
-//    @IBAction func setDefaultLabelText(_ sender: UIButton) {
-//        // Hide the keyboard.
-//        nameTextField.resignFirstResponder()
-//        
-//        mealNameLabel.text = "Default Text"
-//    }
-
-    
 }
 
